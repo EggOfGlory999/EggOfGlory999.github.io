@@ -28,14 +28,9 @@ p {
   color:green;
 }
 
-li {
-  font-family:verdana;
-  text-align:center;
-  color:powder-blue;
-}
-
 i {
   font-family:verdana;
   text-align:center;
   color:tomato-red;
+  font-style:italic;
 }
