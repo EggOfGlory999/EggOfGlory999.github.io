@@ -47,6 +47,11 @@ while running:
         sqSelected = (row, col)
         playerClicks.append(sqSelected) #append for both 1st and 2nd clicks.
       if len(playerClicks) == 2: #after 2nd click
+        move = ChessEngine.move(playerClicks[0], playerClicks[1], gs.board)
+        print(move.getChessNotation())
+        gs.makeMove(move)
+        sqSelected = () #reset player clicks
+        playerClicks = []
         
       
     clock.tick(MAX_FPS)
