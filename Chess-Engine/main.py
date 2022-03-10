@@ -16,7 +16,14 @@ Initialize a global dictionary of images. This will be called once within the ma
 '''
 def_load_images():
   pieces = ["wP", "wN", "wB", "wR", "wQ", "wK", "bP", "bN", "bB", "bR", "bQ", "bK"]
+  for piece in pieces:
+    IMAGES[piece] - p.transform.scale(p.image.load(piece + ".png"), (SQ_SIZE, SQ_SIZE))
   
   '''
   The main driver for our code. This will handle user input and updating the graphics.
   '''
+def_main():
+  p.init()
+  screen = p.display.set_mode((WIDTH, HEIGHT))
+  clock = p.time.Clock()
+  screen.fill(p.Color("white"))
