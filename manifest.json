@@ -4,7 +4,7 @@
   "dir": "ltr",
   "display": "standalone",
   "name": "Egg Of Glory999 Official App",
-  "orientation": "any",
+  "orientation": "portrait-primary",
   "scope": "/index.html, /404.html, /offline.html, /Free-Daily-Chess-Puzzles, /Free-Daily-Chess-Puzzles/daily_puzzle.html, /Free-Daily-Chess-Puzzles/weekly_puzzle.html, /Free-Daily-Chess-Puzzles/monthly_puzzle.html, /Free-Daily-Chess-Puzzles/puzzle_archive.html, /Free-Daily-Chess-Puzzles/information.html",
   "short_name": "EOG999 App",
   "start_url": "/index.html",
