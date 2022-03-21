@@ -11,7 +11,7 @@
   "theme_color": "#3b3b3b",
   "categories": [
     {
-      "Webapps"
+      "categories": ["Webapps", "Chess"]
     }
   ],
   "screenshots": [],
