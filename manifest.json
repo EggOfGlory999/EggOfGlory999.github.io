@@ -5,7 +5,7 @@
   "display": "standalone",
   "name": "Egg Of Glory999",
   "orientation": "portrait",
-  "scope": "/index.html, /404.html, /Free-Daily-Chess-Puzzles, /Free-Daily-Chess-Puzzles/daily_puzzle.html, /Free-Daily-Chess-Puzzles/weekly_puzzle.html, /Free-Daily-Chess-Puzzles/monthly_puzzle.html, /Free-Daily-Chess-Puzzles/puzzle_archive.html, /Free-Daily-Chess-Puzzles/information.html",
+  "scope": "/index.html, /404.html, /Free-Daily-Chess-Puzzles, /Free-Daily-Chess-Puzzles/daily_puzzle.html, /Free-Daily-Chess-Puzzles/weekly_puzzle.html, /Free-Daily-Chess-Puzzles/monthly_puzzle.html, /Free-Daily-Chess-Puzzles/puzzle_archive.html, /Free-Daily-Chess-Puzzles/information.html, /EOG999-Chat, /EOG999-Chat/index.php",
   "short_name": "EOG999",
   "start_url": "/index.html",
   "theme_color": "#3b3b3b",
