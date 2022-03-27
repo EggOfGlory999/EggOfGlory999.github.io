@@ -1,6 +1,8 @@
 body {
   background-image:url("3dgifmaker05728.gif");
   background-attachment:fixed;
+  cursor:url('cursor-default.png'), default;
+  cursor:url('cursor-pointer.png'), pointer;
 }
 
 h1 {
